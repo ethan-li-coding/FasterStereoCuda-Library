@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Option2>
+    <View>
+        <width>4800</width>
+        <height>3409</height>
+    </View>
+    <Stereo>
+        <depth_min>34000.0</depth_min>
+        <depth_max>96500.0</depth_max>
+        <layers_num>2</layers_num>
+        <do_consistency_check>1</do_consistency_check>
+        <do_remove_peaks>1</do_remove_peaks>
+        <do_smooth>0</do_smooth>
+    </Stereo>
+    <Camera>
+        <x0_left_pix>2627.2746582031250</x0_left_pix>
+        <y0_left_pix>1630.0000000000000</y0_left_pix>
+        <x0_right_pix>3542.9848632812500</x0_right_pix>
+        <y0_right_pix>1630.0000000000000</y0_right_pix>
+        <baseline_mm>4324.5149416122963</baseline_mm>
+        <focus_pix>3117.0942850000001</focus_pix>
+    </Camera>
+</Option2>

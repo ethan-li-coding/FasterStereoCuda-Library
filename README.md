@@ -16,7 +16,8 @@ Opencv3.1(下载地址：[https://download.csdn.net/download/rs_lys/13062736](ht
 # 控制台调用方式
 
 >../FasterStereoConsole.exe ../Data/Cone/left.png Data/Cone/right.png ../Data/Cone/option.xml<br>
->把..换成你的路径
+
+>把../换成你的路径。option.xml是算法参数文件，在Data/文件夹中，附有两类参数文件option.xml和option2.xml，分别对应视差空间和深度空间的参数，二者用其一即可。不同的数据，需要对应修改option.xml文件的参数值。
 
 # 重要说明
 

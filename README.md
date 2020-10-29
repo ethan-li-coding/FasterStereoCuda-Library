@@ -26,3 +26,19 @@ Opencv3.1(下载地址：[https://download.csdn.net/download/rs_lys/13062736](ht
 微信：EthanYs6
 邮箱：ethan.li.whu@gmail.com
 
+# 一些案例图片
+
+## 数据1：Cone（450*375）
+<div align=center>
+<img src="https://github.com/ethan-li-coding/FasterStereoCuda-Library/blob/master/Data/diagram/Cone.png">
+</div>
+
+## 数据2：Kitti（1242*375）
+<div align=center>
+<img src="https://github.com/ethan-li-coding/FasterStereoCuda-Library/blob/master/Data/diagram/Kitti.png">
+</div>
+
+## 数据3：Building（4800*3409）
+<div align=center>
+<img src="https://github.com/ethan-li-coding/FasterStereoCuda-Library/blob/master/Data/diagram/Building.png">
+</div>

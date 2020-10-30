@@ -42,3 +42,6 @@ Opencv3.1(下载地址：[https://download.csdn.net/download/rs_lys/13062736](ht
 <div align=center>
 <img src="https://github.com/ethan-li-coding/FasterStereoCuda-Library/blob/master/Data/diagram/Building.png">
 </div>
+
+案例数据下载地址：[https://download.csdn.net/download/rs_lys/13074343](https://download.csdn.net/download/rs_lys/13074343)<br>
+测试平台：NVIDIA GTX1080

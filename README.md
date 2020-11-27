@@ -11,7 +11,7 @@
 Windows 10<br>
 Visual Studio 2019<br>
 CUDA v11.0<br>
-Opencv3.1(下载地址：[https://download.csdn.net/download/rs_lys/13062736](https://download.csdn.net/download/rs_lys/13062736))
+Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](https://download.csdn.net/download/rs_lys/13193887))
 
 # 控制台调用方式
 

@@ -28,7 +28,7 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 算法库为试用版，试用期1个月，若要续期，联系我！
 
 微信：EthanYs6
-邮箱：ethan.li.whu@gmail.com
+邮箱：rs_lys@163.com
 
 # 一些案例图片
 ## 概览

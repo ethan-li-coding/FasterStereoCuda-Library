@@ -28,7 +28,7 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 算法库为试用版，试用期1个月，若要续期，联系我！
 
 微信：EthanYs6
-邮箱：ethan.li.whu@gmail.com
+邮箱：rs_lys@163.com
 
 # 一些案例图片
 ## 概览
@@ -63,21 +63,21 @@ C:\Windows\System32\drivers\etc\hosts
 在文件末尾添加：
 ```cpp
 # GitHub Start
-140.82.112.4 github.com
-140.82.114.4 gist.github.com
-185.199.108.153 assets-cdn.github.com
-151.101.64.133 raw.githubusercontent.com
-151.101.108.133 gist.githubusercontent.com
-151.101.108.133 cloud.githubusercontent.com
-151.101.108.133 camo.githubusercontent.com
-151.101.108.133 avatars0.githubusercontent.com
-151.101.108.133 avatars1.githubusercontent.com
-151.101.108.133 avatars2.githubusercontent.com
-151.101.108.133 avatars3.githubusercontent.com
-151.101.108.133 avatars4.githubusercontent.com
-151.101.108.133 avatars5.githubusercontent.com
-151.101.108.133 avatars6.githubusercontent.com
-151.101.108.133 avatars7.githubusercontent.com
-151.101.108.133 avatars8.githubusercontent.com 
+192.30.253.119      gist.github.com
+151.101.184.133     assets-cdn.github.com
+151.101.184.133     raw.githubusercontent.com
+151.101.184.133     gist.githubusercontent.com
+151.101.184.133     cloud.githubusercontent.com
+151.101.184.133     camo.githubusercontent.com
+151.101.184.133     avatars0.githubusercontent.com
+151.101.184.133     avatars1.githubusercontent.com
+151.101.184.133     avatars2.githubusercontent.com
+151.101.184.133     avatars3.githubusercontent.com
+151.101.184.133     avatars4.githubusercontent.com
+151.101.184.133     avatars5.githubusercontent.com
+151.101.184.133     avatars6.githubusercontent.com
+151.101.184.133     avatars7.githubusercontent.com
+151.101.184.133     avatars8.githubusercontent.com
 # GitHub End
+
 ```

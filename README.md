@@ -32,10 +32,10 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 
 # 一些案例图片
 ## 概览
-| 数据 | Cone | Kitti | Building |
+| 数据 | Cone（450x375x64） | Kitti（1242x375x64） | Building（4800x3409x256） |
 | ------ | ------ | ------ | ------ |
-| 帧率 | 219.5 | 95.9 | 4.3 |
-| 显存(M) | 277 | 397 | 6880 |
+| 帧率 | 309.7 | 145.0 | 5.7 |
+| 显存(Mb) | 271.7 | 346.5 | 4872.5 |
 
 案例数据下载地址：[https://download.csdn.net/download/rs_lys/13074343](https://download.csdn.net/download/rs_lys/13074343)<br>
 测试平台：NVIDIA GTX1080

@@ -18,13 +18,8 @@ using namespace cv;
 using namespace std;
 
 #include "FasterStereoCuda.h"
-#ifdef _DEBUG
-#pragma comment(lib,"opencv_world320d.lib")
-#pragma comment(lib, "FasterStereoCudad.lib")
-#else
 #pragma comment(lib,"opencv_world320.lib")
 #pragma comment(lib, "FasterStereoCuda.lib")
-#endif
 
 #include "option_manager.h"
 

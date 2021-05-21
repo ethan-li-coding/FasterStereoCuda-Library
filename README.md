@@ -35,7 +35,7 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 ## 概览
 | 数据 | Cone（450x375x64） | Kitti（1242x375x64） | Building（4800x3409x256） |
 | ------ | ------ | ------ | ------ |
-| 帧率 | 341.5 | 149.5 | 6.0 |
+| 帧率 | 341.2 | 154.7 | 6.0 |
 | 显存(Mb) | 258.9 | 325.3 | 4185.9 |
 
 案例数据下载地址：[https://download.csdn.net/download/rs_lys/13074343](https://download.csdn.net/download/rs_lys/13074343)<br>

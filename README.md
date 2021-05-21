@@ -35,8 +35,8 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 ## 概览
 | 数据 | Cone（450x375x64） | Kitti（1242x375x64） | Building（4800x3409x256） |
 | ------ | ------ | ------ | ------ |
-| 帧率 | 309.7 | 145.0 | 5.7 |
-| 显存(Mb) | 271.7 | 346.5 | 4872.5 |
+| 帧率 | 309.7 | 149.5 | 6.0 |
+| 显存(Mb) | 258.9 | 325.3 | 4185.9 |
 
 案例数据下载地址：[https://download.csdn.net/download/rs_lys/13074343](https://download.csdn.net/download/rs_lys/13074343)<br>
 测试平台：NVIDIA GTX1080

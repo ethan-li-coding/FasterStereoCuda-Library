@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Option1>
+    <View>
+        <width>4800</width>
+        <height>3409</height>
+    </View>
+    <Stereo>
+        <disp_min>-776</disp_min>
+        <disp_max>-520</disp_max>
+        <layers_num>3</layers_num>
+        <do_consistency_check>1</do_consistency_check>
+        <do_remove_peaks>1</do_remove_peaks>
+        <do_smooth>0</do_smooth>
+    </Stereo>
+</Option1>

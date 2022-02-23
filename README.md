@@ -1,7 +1,7 @@
 # FasterStereoCuda-Library
 
 # 必要更新提醒
-1. 试用期更新为3个月，但是试用策略写的很烂，所以过期了直接contact me！
+1. 试用期更新为6个月，过期了直接contact me！
 2. 修复了你可能不知道的很多bugs!
 # 简介
 

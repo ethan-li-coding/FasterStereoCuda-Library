@@ -150,11 +150,11 @@ bool OptionManager::Load(const string& path, FasterStereoCuda::StereoOption2& op
 		tinyxml2::XMLElement* arg_key = NULL;
 		arg_key = opt_ste->FirstChildElement("depth_min");
 		if (arg_key) {
-			opt.min_depth = atoi(arg_key->GetText());
+			opt.min_depth = atof(arg_key->GetText());
 		}
 		arg_key = opt_ste->FirstChildElement("depth_max");
 		if (arg_key) {
-			opt.max_depth = atoi(arg_key->GetText());
+			opt.max_depth = atof(arg_key->GetText());
 		}
 		arg_key = opt_ste->FirstChildElement("layers_num");
 		if (arg_key) {

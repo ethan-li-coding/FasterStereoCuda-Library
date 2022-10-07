@@ -29,7 +29,7 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 
 # 重要说明
 
-算法库为试用版，试用期1个月，合作联系！
+算法库为试用版，试用期6个月，联系！
 
 微信：EthanYs6
 邮箱：rs_lys@163.com

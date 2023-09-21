@@ -1,7 +1,7 @@
 # FasterStereoCuda-Library
 
 # 必要更新提醒
-1. 试用期更新为6个月，过期了直接contact me！
+1. 试用期更新为12个月，过期了直接contact me！
 2. 修复了你可能不知道的很多bugs!
 # 简介
 
@@ -29,7 +29,7 @@ Opencv3.2(下载地址：[https://download.csdn.net/download/rs_lys/13193887](ht
 
 # 重要说明
 
-算法库为试用版，试用期6个月，联系！
+算法库为试用版，试用期12个月，联系！
 
 微信：EthanYs6
 邮箱：rs_lys@163.com
